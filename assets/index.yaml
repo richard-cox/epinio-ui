@@ -12,13 +12,13 @@ entries:
       catalog.cattle.io/ui-component: plugins
     apiVersion: v2
     appVersion: 1.9.0
-    created: "2023-07-24T14:28:22.320672092Z"
+    created: "2023-07-24T14:41:34.335285937Z"
     description: Application Development Engine for Kubernetes
-    digest: b0a77dbccdab2ad3fdc52c6c54b93bfc4b9151cea8aa1bd08a6092c7e5c1900c
+    digest: 60be1b601cf3dd890d5975e0cfc1a269ae4290a8d157a018c3d0bc6848aa1ae8
     icon: https://raw.githubusercontent.com/rancher/dashboard/0b6cbe93e9ed3292294da178f119a500cc494db9/pkg/epinio/assets/logo-epinio.svg
     name: epinio
     type: application
     urls:
     - assets/epinio/epinio-1.9.0.tgz
     version: 1.9.0
-generated: "2023-07-24T14:28:22.319542488Z"
+generated: "2023-07-24T14:41:34.334838931Z"
