@@ -19,6 +19,6 @@ entries:
     name: epinio
     type: application
     urls:
-    - epinio/epinio-1.9.0.tgz
+    - assets/epinio/epinio-1.9.0.tgz
     version: 1.9.0
 generated: "2023-07-24T12:42:31.887387945Z"
